@@ -1,0 +1,6 @@
+{
+  "name": "MikroSpot Studio — Editor Login Hotspot MikroTik",
+  "description": "Studio visual untuk mendesain, menyesuaikan, dan mengekspor 10 template halaman login Hotspot MikroTik RouterOS bertema sekolah dan edukasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
